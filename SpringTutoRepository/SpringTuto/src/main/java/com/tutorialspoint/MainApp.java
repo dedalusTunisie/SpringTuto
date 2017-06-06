@@ -17,6 +17,7 @@ public class MainApp {
 	      objB.getMessage();
 	      
 	      System.out.println("change");
+	      System.out.println("change");
 	}
 
 }
