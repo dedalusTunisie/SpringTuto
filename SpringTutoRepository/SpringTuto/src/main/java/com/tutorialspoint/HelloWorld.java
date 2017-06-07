@@ -6,11 +6,7 @@ public class HelloWorld {
 	   public void setMessage(String message){
 	      this.message  = message;
 	   }
-	   public void getMessage(){
-		   System.out.println("Your Message : " + message);
-	   }
-	   //hello
-	   public void getMessageHello(){
-		   System.out.println("Your Message Heloo : " + message);
+	   public void getMessageMethode(){
+		   System.out.println("Message from conflict here ff: " + message);
 	   }
 }
