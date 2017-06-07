@@ -7,6 +7,10 @@ public class HelloWorld {
 	      this.message  = message;
 	   }
 	   public void getMessage(){
-		   System.out.println("Message from conflict: " + message);
+		   System.out.println("Your Message : " + message);
+	   }
+	   //hello
+	   public void getMessageHello(){
+		   System.out.println("Your Message Heloo : " + message);
 	   }
 }
